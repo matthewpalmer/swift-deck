@@ -1,0 +1,6 @@
+framework module Deck {
+  umbrella header "Pods-Deck-Deck-umbrella.h"
+
+  export *
+  module * { export * }
+}

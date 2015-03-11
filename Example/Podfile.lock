@@ -1,0 +1,14 @@
+PODS:
+  - Deck (0.1.0)
+
+DEPENDENCIES:
+  - Deck (from `../`)
+
+EXTERNAL SOURCES:
+  Deck:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Deck: 7c1658c381c8b412e27d0c624e84616e0010e0b7
+
+COCOAPODS: 0.36.0
