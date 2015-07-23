@@ -13,7 +13,7 @@ import UIKit
 /// A Deck is similar to a Stack, except that you can go forwards and backwards through it. When you get to the end of a Stack, it loops back around to the start.
 public class Deck<T> {
     // MARK: - Private attributes
-    private let cards: [T] = []
+    private var cards: [T] = []
     private var currentCardIndex: Int
     
     // MARK: - Private functions
